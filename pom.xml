@@ -17,8 +17,8 @@
   <distributionManagement>
 
 		<repository>
-			<id>package</id>
-			<url>http://3.144.207.75:8081/repository/package/</url>
+			<id>maven-package</id>
+			<url>http://3.144.207.75:8081/repository/maven-package/</url>
 		</repository>
 		<snapshotRepository>
 			<id>Maven-snapshot</id>
